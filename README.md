@@ -1,2 +1,3 @@
 # Rental_Cycle_Analysis
-To sustain and expand its electric cycle rental services, XYZ company needs to comprehend the demand patterns for electric cycles. Therefore, the primary focus is to establish the relationships between electric cycle rentals and various other variables, enabling data-driven decision-making.
+
+It is a data analysis project where the primary focus is to establish the relationships between electric cycle rentals and various other variables, for which data cleaning, bi-variant analysis, and hypothesis testing using multiple statistical tools depending on the type of variables are done.
